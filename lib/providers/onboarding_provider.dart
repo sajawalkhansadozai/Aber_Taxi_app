@@ -5,6 +5,6 @@ class OnboardingProvider with ChangeNotifier {
 
   void updatePage(int index) {
     currentPage = index;
-    notifyListeners();
+    notifyListeners(); // Notify listeners to rebuild UI when the page changes
   }
 }
