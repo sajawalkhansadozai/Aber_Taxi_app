@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189774954357",
+    "project_id": "aber-53d81",
+    "storage_bucket": "aber-53d81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189774954357:android:af83cd2fad1014b2fc9d3c",
+        "android_client_info": {
+          "package_name": "com.aber.aber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6ylqKdQSqQc65iAkTITDoh632o5i2wmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
